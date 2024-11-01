@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21566
-Fork on GitHub
-6841
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm G Shiva Prasad</h1>
 <h3 align="center">A passionate coder from India</h3>
 
@@ -21,13 +5,13 @@ preview
 
 - 🔭 I’m currently working on **LangChain**
 
-- 🌱 I’m currently learning **Langchain,Docker etc..**
+- 🌱 I’m currently learning **Langchain, Docker etc..**
 
 - 👯 I’m looking to collaborate on **anything**
 
 - 🤝 I’m looking for help with **anything**
 
-- 💬 Ask me about **Android,MERN,Flutter**
+- 💬 Ask me about **Android , MERN, Flutter, Data Structures and Algorithms**
 
 - 📫 How to reach me **shivaprasad220603@gmail.com**
 
@@ -50,28 +34,3 @@ preview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiva2206&show_icons=true&locale=en" alt="shiva2206" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiva2206&" alt="shiva2206" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
